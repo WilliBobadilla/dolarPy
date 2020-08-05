@@ -7,8 +7,8 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/code.png",
-      "sizes": "192x192",
+      "src": "/img/dolar.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
