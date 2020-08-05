@@ -1,0 +1,11 @@
+{
+  "name": "DolarPy",
+  "version": "1.0.0",
+  "description": "Cotizaciones de las diferentes casas del Paraguay",
+  "main": "index.js",
+  "author": "Marcelo Elizeche",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
